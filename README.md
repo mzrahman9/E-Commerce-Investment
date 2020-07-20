@@ -18,6 +18,7 @@ Exploratory Data Analysis:
 2) Length of Membership is the most correlated feature with Yearly Amount Spent by customers.
 
 Interpreting the coefficients:
+
 Holding all other features fixed, a 1 unit increase in Avg. Session Length is associated with an increase of 25.98 total dollars spent.
 Holding all other features fixed, a 1 unit increase in Time on App is associated with an increase of 38.59 total dollars spent.
 Holding all other features fixed, a 1 unit increase in Time on Website is associated with an increase of 0.19 total dollars spent.
